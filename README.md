@@ -1,2 +1,2 @@
-# Aspnetcore.JWT
-Ease the Learning and using the Technology of Json Web Token => Token Based Authentication
+# Aspnetcore.Security
+Ease the Learning and using the Security Patterns for Development
